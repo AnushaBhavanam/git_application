@@ -1,2 +1,2 @@
 # git_application
-creating git application
+Creating Git application
